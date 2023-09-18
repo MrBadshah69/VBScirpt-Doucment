@@ -1,0 +1,10 @@
+The MsgBox function has the following return values:
+
+Constant 	Value 		Button
+vbOK 		1 		OK
+vbCancel 	2 		Cancel
+vbAbort 	3 		Abort
+vbRetry 	4 		Retry
+vbIgnore 	5 		Ignore
+vbYes 		6 		Yes
+vbNo 		7 		No

@@ -1,0 +1,27 @@
+Code Example:
+
+Option Explicit
+Dim a
+
+a=MsgBox("Guess a Button",vbAbortRetrylgnore)
+
+If a=vbRetry Or a=vbAbort then
+   msgbox "correct"
+
+Elself a=vblgnore then
+  msgbox"wrong"
+
+End If
+
+Know the Basics:
+
+If variable=a Then
+code here
+
+Elself variable=b Then
+code here
+Elself variable=c Then
+code here
+Else
+Wscript.Quit
+End If
